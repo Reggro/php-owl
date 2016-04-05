@@ -1,0 +1,8 @@
+{
+    "title" : "Second article",
+    "date"  : "02/18/2012",
+    "slug"  : "second-article",
+    "author": "Author name"
+}
+
+I am a banana.

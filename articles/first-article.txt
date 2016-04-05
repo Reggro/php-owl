@@ -1,0 +1,8 @@
+{
+    "title" : "This is my first article",
+    "date"  : "02/15/2012",
+    "slug"  : "first-article",
+    "author": "Author name"
+}
+
+Fruitcake jelly-o halvah marshmallow bonbon. Croissant candy canes chocolate cake muffin jelly beans liquorice.... (copy paste some lipsum)
